@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Tests" verbose="5">
+    <test name="regression exclude smoke testing" enabled="true">
+        <groups>
+            <run>
+                <include name="regression"></include>
+                <exclude name="smoke"></exclude>
+            </run>
+        </groups>
+        <classes>
+            <class name="org.example.tests.LoginTests"/>
+        </classes>
+    </test>
+
+<!--    <test name="smoke and special for qa8 testing" enabled="false">-->
+<!--        <groups>-->
+<!--            <run>-->
+<!--                <exclude name="regression"></exclude>-->
+<!--                <include name="special for QA8"></include>-->
+<!--                <include name="smoke"></include>-->
+<!--            </run>-->
+<!--        </groups>-->
+<!--        <classes>-->
+<!--            <class name="org.example.tests.LoginTests"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>

@@ -1,0 +1,721 @@
+2021-04-30 11:15:20 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:20 INFO  LogLog4j:40 - Find element: By.xpath: //a[contains(text(),'Log in')]
+2021-04-30 11:15:20 INFO  LogLog4j:40 - By.xpath: //a[contains(text(),'Log in')] element was found!
+2021-04-30 11:15:20 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:20 INFO  LogLog4j:40 - 
+2021-04-30 11:15:20 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:20 INFO  LogLog4j:40 - Find element: By.xpath: //a[contains(text(),'Log in')]
+2021-04-30 11:15:20 INFO  LogLog4j:40 - By.xpath: //a[contains(text(),'Log in')] element was found!
+2021-04-30 11:15:20 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:20 INFO  LogLog4j:40 - 
+2021-04-30 11:15:20 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:20 INFO  LogLog4j:40 - Find element: By.xpath: //a[contains(text(),'Log in')]
+2021-04-30 11:15:20 INFO  LogLog4j:40 - By.xpath: //a[contains(text(),'Log in')] element was found!
+2021-04-30 11:15:20 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:20 INFO  LogLog4j:40 - 
+2021-04-30 11:15:20 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:20 INFO  LogLog4j:40 - Find element: By.id: user
+2021-04-30 11:15:22 INFO  LogLog4j:40 - By.id: user element was found!
+2021-04-30 11:15:22 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:22 INFO  LogLog4j:40 - 
+2021-04-30 11:15:22 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:22 INFO  LogLog4j:40 - Find element: By.id: user
+2021-04-30 11:15:22 INFO  LogLog4j:40 - By.id: user element was found!
+2021-04-30 11:15:22 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:22 INFO  LogLog4j:40 - 
+2021-04-30 11:15:22 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:22 INFO  LogLog4j:40 - Find element: By.id: login
+2021-04-30 11:15:22 INFO  LogLog4j:40 - By.id: login element was found!
+2021-04-30 11:15:22 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:22 INFO  LogLog4j:40 - 
+2021-04-30 11:15:22 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:22 INFO  LogLog4j:40 - Find element: By.id: login
+2021-04-30 11:15:22 INFO  LogLog4j:40 - By.id: login element was found!
+2021-04-30 11:15:22 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:22 INFO  LogLog4j:40 - 
+2021-04-30 11:15:22 INFO  LogLog4j:16 - 
+2021-04-30 11:15:22 INFO  LogLog4j:17 - *******************************************************************
+2021-04-30 11:15:22 INFO  LogLog4j:18 -              Start Test Case: loginNegative
+2021-04-30 11:15:22 INFO  LogLog4j:19 - *******************************************************************
+2021-04-30 11:15:22 INFO  LogLog4j:20 - 
+2021-04-30 11:15:22 INFO  LogLog4j:40 -        Parameter login: ymJ
+2021-04-30 11:15:22 INFO  LogLog4j:40 -        Parameter password: djScz
+2021-04-30 11:15:22 INFO  LogLog4j:40 - [ METHOD:  'enterLoginPassNotAttl'  IS  STARTED ]
+2021-04-30 11:15:22 INFO  LogLog4j:40 - [ METHOD:  'enterLoginNotAttl'  IS  STARTED ]
+2021-04-30 11:15:22 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:22 INFO  LogLog4j:40 - Find element: By.id: user
+2021-04-30 11:15:22 INFO  LogLog4j:40 - By.id: user element was found!
+2021-04-30 11:15:22 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:22 INFO  LogLog4j:40 - 
+2021-04-30 11:15:22 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:22 INFO  LogLog4j:40 - Find element: By.id: user
+2021-04-30 11:15:22 INFO  LogLog4j:40 - By.id: user element was found!
+2021-04-30 11:15:22 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:22 INFO  LogLog4j:40 - 
+2021-04-30 11:15:22 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:22 INFO  LogLog4j:40 - Find element: By.id: user
+2021-04-30 11:15:22 INFO  LogLog4j:40 - By.id: user element was found!
+2021-04-30 11:15:22 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:22 INFO  LogLog4j:40 - 
+2021-04-30 11:15:22 INFO  LogLog4j:40 - ------- Login value /ymJ/ was entered
+2021-04-30 11:15:22 INFO  LogLog4j:40 - 
+2021-04-30 11:15:22 INFO  LogLog4j:40 - ------- Login value /ymJ/ was entered
+2021-04-30 11:15:22 INFO  LogLog4j:40 - [ METHOD:  'enterPasswordNotAttl'  IS  STARTED ]
+2021-04-30 11:15:22 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:22 INFO  LogLog4j:40 - Find element: By.id: password
+2021-04-30 11:15:22 INFO  LogLog4j:40 - By.id: password element was found!
+2021-04-30 11:15:22 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:22 INFO  LogLog4j:40 - 
+2021-04-30 11:15:22 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:22 INFO  LogLog4j:40 - Find element: By.id: password
+2021-04-30 11:15:22 INFO  LogLog4j:40 - By.id: password element was found!
+2021-04-30 11:15:22 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:22 INFO  LogLog4j:40 - 
+2021-04-30 11:15:22 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:22 INFO  LogLog4j:40 - Find element: By.id: password
+2021-04-30 11:15:22 INFO  LogLog4j:40 - By.id: password element was found!
+2021-04-30 11:15:22 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:22 INFO  LogLog4j:40 - 
+2021-04-30 11:15:22 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:22 INFO  LogLog4j:40 - Find element: By.id: password
+2021-04-30 11:15:22 INFO  LogLog4j:40 - By.id: password element was found!
+2021-04-30 11:15:22 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:22 INFO  LogLog4j:40 - 
+2021-04-30 11:15:22 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:22 INFO  LogLog4j:40 - Find element: By.id: password
+2021-04-30 11:15:22 INFO  LogLog4j:40 - By.id: password element was found!
+2021-04-30 11:15:22 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:22 INFO  LogLog4j:40 - 
+2021-04-30 11:15:22 INFO  LogLog4j:40 - ------- Password value /djScz/ was entered
+2021-04-30 11:15:22 INFO  LogLog4j:40 - 
+2021-04-30 11:15:23 INFO  LogLog4j:40 - ------- Password value /djScz/ was entered
+2021-04-30 11:15:23 INFO  LogLog4j:40 - [ METHOD:  'clickLoginInButtonNotAttl'  IS  STARTED ]
+2021-04-30 11:15:23 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:23 INFO  LogLog4j:40 - Find element: By.id: login
+2021-04-30 11:15:23 INFO  LogLog4j:40 - By.id: login element was found!
+2021-04-30 11:15:23 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:23 INFO  LogLog4j:40 - 
+2021-04-30 11:15:23 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:23 INFO  LogLog4j:40 - Find element: By.id: login
+2021-04-30 11:15:23 INFO  LogLog4j:40 - By.id: login element was found!
+2021-04-30 11:15:23 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:23 INFO  LogLog4j:40 - 
+2021-04-30 11:15:23 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:23 INFO  LogLog4j:40 - Find element: By.id: login
+2021-04-30 11:15:23 INFO  LogLog4j:40 - By.id: login element was found!
+2021-04-30 11:15:23 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:23 INFO  LogLog4j:40 - 
+2021-04-30 11:15:23 INFO  LogLog4j:40 - ------> Click on LOGIN button (not Attl.)
+2021-04-30 11:15:23 INFO  LogLog4j:40 - 
+2021-04-30 11:15:23 INFO  LogLog4j:40 - ------> Click on LOGIN button (not Attl.)
+2021-04-30 11:15:23 INFO  LogLog4j:40 - 
+2021-04-30 11:15:23 INFO  LogLog4j:40 - Not attl. Login: ( ymJ ) and Password: ( djScz ) was entered
+2021-04-30 11:15:23 INFO  LogLog4j:40 - [ METHOD:  'clickLoginInButtonNotAttl'  IS  STARTED ]
+2021-04-30 11:15:23 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:23 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:23 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:23 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:23 INFO  LogLog4j:40 - 
+2021-04-30 11:15:24 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:24 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:24 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:24 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:24 INFO  LogLog4j:40 - 
+2021-04-30 11:15:24 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:24 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:24 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:24 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:24 INFO  LogLog4j:40 - 
+2021-04-30 11:15:25 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:25 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:25 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:25 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:25 INFO  LogLog4j:40 - 
+2021-04-30 11:15:26 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:26 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:26 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:26 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:26 INFO  LogLog4j:40 - 
+2021-04-30 11:15:26 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:26 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:26 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:26 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:26 INFO  LogLog4j:40 - 
+2021-04-30 11:15:27 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:27 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:27 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:27 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:27 INFO  LogLog4j:40 - 
+2021-04-30 11:15:27 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:27 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:27 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:27 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:27 INFO  LogLog4j:40 - 
+2021-04-30 11:15:28 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:28 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:28 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:28 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:28 INFO  LogLog4j:40 - 
+2021-04-30 11:15:28 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:28 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:28 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:28 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:28 INFO  LogLog4j:40 - 
+2021-04-30 11:15:29 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:29 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:29 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:29 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:29 INFO  LogLog4j:40 - 
+2021-04-30 11:15:29 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:29 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:29 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:29 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:29 INFO  LogLog4j:40 - 
+2021-04-30 11:15:30 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:30 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:30 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:30 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:30 INFO  LogLog4j:40 - 
+2021-04-30 11:15:30 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:30 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:30 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:30 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:30 INFO  LogLog4j:40 - 
+2021-04-30 11:15:31 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:31 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:31 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:31 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:31 INFO  LogLog4j:40 - 
+2021-04-30 11:15:32 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:32 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:32 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:32 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:32 INFO  LogLog4j:40 - 
+2021-04-30 11:15:32 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:32 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:32 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:32 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:32 INFO  LogLog4j:40 - 
+2021-04-30 11:15:33 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:33 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:33 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:33 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:33 INFO  LogLog4j:40 - 
+2021-04-30 11:15:33 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:33 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:33 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:33 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:33 INFO  LogLog4j:40 - 
+2021-04-30 11:15:34 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:34 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:34 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:34 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:34 INFO  LogLog4j:40 - 
+2021-04-30 11:15:34 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:34 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:34 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:34 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:34 INFO  LogLog4j:40 - 
+2021-04-30 11:15:35 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:35 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:35 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:35 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:35 INFO  LogLog4j:40 - 
+2021-04-30 11:15:35 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:35 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:35 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:35 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:35 INFO  LogLog4j:40 - 
+2021-04-30 11:15:36 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:36 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:36 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:36 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:36 INFO  LogLog4j:40 - 
+2021-04-30 11:15:36 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:36 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:36 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:36 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:36 INFO  LogLog4j:40 - 
+2021-04-30 11:15:37 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:37 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:37 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:37 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:37 INFO  LogLog4j:40 - 
+2021-04-30 11:15:37 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:37 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:38 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:38 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:38 INFO  LogLog4j:40 - 
+2021-04-30 11:15:38 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:38 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:38 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:38 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:38 INFO  LogLog4j:40 - 
+2021-04-30 11:15:39 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:39 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:39 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:39 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:39 INFO  LogLog4j:40 - 
+2021-04-30 11:15:39 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:39 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:39 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:39 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:39 INFO  LogLog4j:40 - 
+2021-04-30 11:15:40 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:40 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:40 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:40 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:40 INFO  LogLog4j:40 - 
+2021-04-30 11:15:40 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:40 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:40 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:40 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:40 INFO  LogLog4j:40 - 
+2021-04-30 11:15:41 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:41 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:41 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:41 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:41 INFO  LogLog4j:40 - 
+2021-04-30 11:15:41 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:41 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:41 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:41 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:41 INFO  LogLog4j:40 - 
+2021-04-30 11:15:42 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:42 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:42 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:42 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:42 INFO  LogLog4j:40 - 
+2021-04-30 11:15:42 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:42 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:42 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:42 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:42 INFO  LogLog4j:40 - 
+2021-04-30 11:15:43 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:43 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:43 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:43 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:43 INFO  LogLog4j:40 - 
+2021-04-30 11:15:43 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:43 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:43 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:43 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:43 INFO  LogLog4j:40 - 
+2021-04-30 11:15:43 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:43 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:43 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:43 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:43 INFO  LogLog4j:40 - 
+2021-04-30 11:15:44 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:44 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:44 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:44 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:44 INFO  LogLog4j:40 - 
+2021-04-30 11:15:44 ERROR LogLog4j:58 -  (!) Error: -!-!-!-!- Error message of the method 'getErrorNotAttlMessage' - 
+2021-04-30 11:15:44 INFO  LogLog4j:40 - 
+2021-04-30 11:15:44 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:44 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:44 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:44 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:44 INFO  LogLog4j:40 - 
+2021-04-30 11:15:44 INFO  LogLog4j:40 - !-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!
+2021-04-30 11:15:44 INFO  LogLog4j:40 - !-!-!-!-!-! Test was failed.. !-!-!-!-!
+2021-04-30 11:15:44 INFO  LogLog4j:40 - !-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!-!
+2021-04-30 11:15:44 INFO  LogLog4j:40 - _______________________________________
+2021-04-30 11:15:44 INFO  LogLog4j:40 - ______ See screenshot: screenshot-1619770544349.png
+2021-04-30 11:15:44 INFO  LogLog4j:40 - _______________________________________
+2021-04-30 11:15:50 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:50 INFO  LogLog4j:40 - Find element: By.xpath: //a[contains(text(),'Log in')]
+2021-04-30 11:15:50 INFO  LogLog4j:40 - By.xpath: //a[contains(text(),'Log in')] element was found!
+2021-04-30 11:15:50 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:50 INFO  LogLog4j:40 - 
+2021-04-30 11:15:50 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:50 INFO  LogLog4j:40 - Find element: By.xpath: //a[contains(text(),'Log in')]
+2021-04-30 11:15:50 INFO  LogLog4j:40 - By.xpath: //a[contains(text(),'Log in')] element was found!
+2021-04-30 11:15:50 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:50 INFO  LogLog4j:40 - 
+2021-04-30 11:15:50 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:50 INFO  LogLog4j:40 - Find element: By.xpath: //a[contains(text(),'Log in')]
+2021-04-30 11:15:50 INFO  LogLog4j:40 - By.xpath: //a[contains(text(),'Log in')] element was found!
+2021-04-30 11:15:50 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:50 INFO  LogLog4j:40 - 
+2021-04-30 11:15:50 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:50 INFO  LogLog4j:40 - Find element: By.id: user
+2021-04-30 11:15:51 INFO  LogLog4j:40 - By.id: user element was found!
+2021-04-30 11:15:51 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:51 INFO  LogLog4j:40 - 
+2021-04-30 11:15:51 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:51 INFO  LogLog4j:40 - Find element: By.id: user
+2021-04-30 11:15:51 INFO  LogLog4j:40 - By.id: user element was found!
+2021-04-30 11:15:51 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:51 INFO  LogLog4j:40 - 
+2021-04-30 11:15:51 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:51 INFO  LogLog4j:40 - Find element: By.id: login
+2021-04-30 11:15:51 INFO  LogLog4j:40 - By.id: login element was found!
+2021-04-30 11:15:51 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:51 INFO  LogLog4j:40 - 
+2021-04-30 11:15:51 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:51 INFO  LogLog4j:40 - Find element: By.id: login
+2021-04-30 11:15:51 INFO  LogLog4j:40 - By.id: login element was found!
+2021-04-30 11:15:51 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:51 INFO  LogLog4j:40 - 
+2021-04-30 11:15:51 INFO  LogLog4j:16 - 
+2021-04-30 11:15:51 INFO  LogLog4j:17 - *******************************************************************
+2021-04-30 11:15:51 INFO  LogLog4j:18 -              Start Test Case: loginNegative
+2021-04-30 11:15:51 INFO  LogLog4j:19 - *******************************************************************
+2021-04-30 11:15:51 INFO  LogLog4j:20 - 
+2021-04-30 11:15:51 INFO  LogLog4j:40 -        Parameter login: kVH
+2021-04-30 11:15:51 INFO  LogLog4j:40 -        Parameter password: 7nOK5tc
+2021-04-30 11:15:51 INFO  LogLog4j:40 - [ METHOD:  'enterLoginPassNotAttl'  IS  STARTED ]
+2021-04-30 11:15:51 INFO  LogLog4j:40 - [ METHOD:  'enterLoginNotAttl'  IS  STARTED ]
+2021-04-30 11:15:51 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:51 INFO  LogLog4j:40 - Find element: By.id: user
+2021-04-30 11:15:51 INFO  LogLog4j:40 - By.id: user element was found!
+2021-04-30 11:15:51 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:51 INFO  LogLog4j:40 - 
+2021-04-30 11:15:51 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:51 INFO  LogLog4j:40 - Find element: By.id: user
+2021-04-30 11:15:51 INFO  LogLog4j:40 - By.id: user element was found!
+2021-04-30 11:15:51 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:51 INFO  LogLog4j:40 - 
+2021-04-30 11:15:51 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:51 INFO  LogLog4j:40 - Find element: By.id: user
+2021-04-30 11:15:51 INFO  LogLog4j:40 - By.id: user element was found!
+2021-04-30 11:15:51 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:51 INFO  LogLog4j:40 - 
+2021-04-30 11:15:52 INFO  LogLog4j:40 - ------- Login value /kVH/ was entered
+2021-04-30 11:15:52 INFO  LogLog4j:40 - 
+2021-04-30 11:15:52 INFO  LogLog4j:40 - ------- Login value /kVH/ was entered
+2021-04-30 11:15:52 INFO  LogLog4j:40 - [ METHOD:  'enterPasswordNotAttl'  IS  STARTED ]
+2021-04-30 11:15:52 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:52 INFO  LogLog4j:40 - Find element: By.id: password
+2021-04-30 11:15:52 INFO  LogLog4j:40 - By.id: password element was found!
+2021-04-30 11:15:52 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:52 INFO  LogLog4j:40 - 
+2021-04-30 11:15:52 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:52 INFO  LogLog4j:40 - Find element: By.id: password
+2021-04-30 11:15:52 INFO  LogLog4j:40 - By.id: password element was found!
+2021-04-30 11:15:52 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:52 INFO  LogLog4j:40 - 
+2021-04-30 11:15:52 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:52 INFO  LogLog4j:40 - Find element: By.id: password
+2021-04-30 11:15:52 INFO  LogLog4j:40 - By.id: password element was found!
+2021-04-30 11:15:52 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:52 INFO  LogLog4j:40 - 
+2021-04-30 11:15:52 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:52 INFO  LogLog4j:40 - Find element: By.id: password
+2021-04-30 11:15:52 INFO  LogLog4j:40 - By.id: password element was found!
+2021-04-30 11:15:52 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:52 INFO  LogLog4j:40 - 
+2021-04-30 11:15:52 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:52 INFO  LogLog4j:40 - Find element: By.id: password
+2021-04-30 11:15:52 INFO  LogLog4j:40 - By.id: password element was found!
+2021-04-30 11:15:52 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:52 INFO  LogLog4j:40 - 
+2021-04-30 11:15:52 INFO  LogLog4j:40 - ------- Password value /7nOK5tc/ was entered
+2021-04-30 11:15:52 INFO  LogLog4j:40 - 
+2021-04-30 11:15:53 INFO  LogLog4j:40 - ------- Password value /7nOK5tc/ was entered
+2021-04-30 11:15:53 INFO  LogLog4j:40 - [ METHOD:  'clickLoginInButtonNotAttl'  IS  STARTED ]
+2021-04-30 11:15:53 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:53 INFO  LogLog4j:40 - Find element: By.id: login
+2021-04-30 11:15:53 INFO  LogLog4j:40 - By.id: login element was found!
+2021-04-30 11:15:53 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:53 INFO  LogLog4j:40 - 
+2021-04-30 11:15:53 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:53 INFO  LogLog4j:40 - Find element: By.id: login
+2021-04-30 11:15:53 INFO  LogLog4j:40 - By.id: login element was found!
+2021-04-30 11:15:53 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:53 INFO  LogLog4j:40 - 
+2021-04-30 11:15:53 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:53 INFO  LogLog4j:40 - Find element: By.id: login
+2021-04-30 11:15:53 INFO  LogLog4j:40 - By.id: login element was found!
+2021-04-30 11:15:53 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:53 INFO  LogLog4j:40 - 
+2021-04-30 11:15:53 INFO  LogLog4j:40 - ------> Click on LOGIN button (not Attl.)
+2021-04-30 11:15:53 INFO  LogLog4j:40 - 
+2021-04-30 11:15:53 INFO  LogLog4j:40 - ------> Click on LOGIN button (not Attl.)
+2021-04-30 11:15:53 INFO  LogLog4j:40 - 
+2021-04-30 11:15:53 INFO  LogLog4j:40 - Not attl. Login: ( kVH ) and Password: ( 7nOK5tc ) was entered
+2021-04-30 11:15:53 INFO  LogLog4j:40 - [ METHOD:  'clickLoginInButtonNotAttl'  IS  STARTED ]
+2021-04-30 11:15:53 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:53 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:53 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:53 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:53 INFO  LogLog4j:40 - 
+2021-04-30 11:15:53 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:53 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:53 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:53 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:53 INFO  LogLog4j:40 - 
+2021-04-30 11:15:53 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:53 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:53 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:53 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:53 INFO  LogLog4j:40 - 
+2021-04-30 11:15:53 ERROR LogLog4j:58 -  (!) Error: -!-!-!-!- Error message of the method 'getErrorNotAttlMessage' - There isn't an account for this username
+2021-04-30 11:15:53 INFO  LogLog4j:40 - 
+2021-04-30 11:15:53 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:53 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:53 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:53 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:53 INFO  LogLog4j:40 - 
+2021-04-30 11:15:53 INFO  LogLog4j:40 - [ METHOD:  'clickLoginInButtonNotAttl'  IS  STARTED ]
+2021-04-30 11:15:53 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:53 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:53 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:53 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:53 INFO  LogLog4j:40 - 
+2021-04-30 11:15:53 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:53 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:53 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:53 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:53 INFO  LogLog4j:40 - 
+2021-04-30 11:15:53 ERROR LogLog4j:58 -  (!) Error: -!-!-!-!- Error message of the method 'getErrorNotAttlMessage' - There isn't an account for this username
+2021-04-30 11:15:53 INFO  LogLog4j:40 - 
+2021-04-30 11:15:53 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:53 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:15:53 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:15:53 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:53 INFO  LogLog4j:40 - 
+2021-04-30 11:15:54 INFO  LogLog4j:40 - ----- Error message: There isn't an account for this username
+2021-04-30 11:15:54 INFO  LogLog4j:28 - 
+2021-04-30 11:15:54 INFO  LogLog4j:29 - *******************************************************************
+2021-04-30 11:15:54 INFO  LogLog4j:30 -          Test Case: loginNegative Was Finished
+2021-04-30 11:15:54 INFO  LogLog4j:31 - *******************************************************************
+2021-04-30 11:15:54 INFO  LogLog4j:32 - 
+2021-04-30 11:15:57 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:57 INFO  LogLog4j:40 - Find element: By.xpath: //a[contains(text(),'Log in')]
+2021-04-30 11:15:57 INFO  LogLog4j:40 - By.xpath: //a[contains(text(),'Log in')] element was found!
+2021-04-30 11:15:57 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:57 INFO  LogLog4j:40 - 
+2021-04-30 11:15:57 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:57 INFO  LogLog4j:40 - Find element: By.xpath: //a[contains(text(),'Log in')]
+2021-04-30 11:15:57 INFO  LogLog4j:40 - By.xpath: //a[contains(text(),'Log in')] element was found!
+2021-04-30 11:15:57 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:57 INFO  LogLog4j:40 - 
+2021-04-30 11:15:57 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:57 INFO  LogLog4j:40 - Find element: By.xpath: //a[contains(text(),'Log in')]
+2021-04-30 11:15:58 INFO  LogLog4j:40 - By.xpath: //a[contains(text(),'Log in')] element was found!
+2021-04-30 11:15:58 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:58 INFO  LogLog4j:40 - 
+2021-04-30 11:15:58 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:58 INFO  LogLog4j:40 - Find element: By.id: user
+2021-04-30 11:15:59 INFO  LogLog4j:40 - By.id: user element was found!
+2021-04-30 11:15:59 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:59 INFO  LogLog4j:40 - 
+2021-04-30 11:15:59 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:59 INFO  LogLog4j:40 - Find element: By.id: user
+2021-04-30 11:15:59 INFO  LogLog4j:40 - By.id: user element was found!
+2021-04-30 11:15:59 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:59 INFO  LogLog4j:40 - 
+2021-04-30 11:15:59 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:59 INFO  LogLog4j:40 - Find element: By.id: login
+2021-04-30 11:15:59 INFO  LogLog4j:40 - By.id: login element was found!
+2021-04-30 11:15:59 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:59 INFO  LogLog4j:40 - 
+2021-04-30 11:15:59 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:59 INFO  LogLog4j:40 - Find element: By.id: login
+2021-04-30 11:15:59 INFO  LogLog4j:40 - By.id: login element was found!
+2021-04-30 11:15:59 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:59 INFO  LogLog4j:40 - 
+2021-04-30 11:15:59 INFO  LogLog4j:16 - 
+2021-04-30 11:15:59 INFO  LogLog4j:17 - *******************************************************************
+2021-04-30 11:15:59 INFO  LogLog4j:18 -              Start Test Case: loginNegative
+2021-04-30 11:15:59 INFO  LogLog4j:19 - *******************************************************************
+2021-04-30 11:15:59 INFO  LogLog4j:20 - 
+2021-04-30 11:15:59 INFO  LogLog4j:40 -        Parameter login: 0kH
+2021-04-30 11:15:59 INFO  LogLog4j:40 -        Parameter password: E1kGuG
+2021-04-30 11:15:59 INFO  LogLog4j:40 - [ METHOD:  'enterLoginPassNotAttl'  IS  STARTED ]
+2021-04-30 11:15:59 INFO  LogLog4j:40 - [ METHOD:  'enterLoginNotAttl'  IS  STARTED ]
+2021-04-30 11:15:59 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:59 INFO  LogLog4j:40 - Find element: By.id: user
+2021-04-30 11:15:59 INFO  LogLog4j:40 - By.id: user element was found!
+2021-04-30 11:15:59 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:59 INFO  LogLog4j:40 - 
+2021-04-30 11:15:59 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:15:59 INFO  LogLog4j:40 - Find element: By.id: user
+2021-04-30 11:16:00 INFO  LogLog4j:40 - By.id: user element was found!
+2021-04-30 11:16:00 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:00 INFO  LogLog4j:40 - 
+2021-04-30 11:16:00 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:00 INFO  LogLog4j:40 - Find element: By.id: user
+2021-04-30 11:16:00 INFO  LogLog4j:40 - By.id: user element was found!
+2021-04-30 11:16:00 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:00 INFO  LogLog4j:40 - 
+2021-04-30 11:16:00 INFO  LogLog4j:40 - ------- Login value /0kH/ was entered
+2021-04-30 11:16:00 INFO  LogLog4j:40 - 
+2021-04-30 11:16:00 INFO  LogLog4j:40 - ------- Login value /0kH/ was entered
+2021-04-30 11:16:00 INFO  LogLog4j:40 - [ METHOD:  'enterPasswordNotAttl'  IS  STARTED ]
+2021-04-30 11:16:00 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:00 INFO  LogLog4j:40 - Find element: By.id: password
+2021-04-30 11:16:00 INFO  LogLog4j:40 - By.id: password element was found!
+2021-04-30 11:16:00 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:00 INFO  LogLog4j:40 - 
+2021-04-30 11:16:00 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:00 INFO  LogLog4j:40 - Find element: By.id: password
+2021-04-30 11:16:00 INFO  LogLog4j:40 - By.id: password element was found!
+2021-04-30 11:16:00 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:00 INFO  LogLog4j:40 - 
+2021-04-30 11:16:00 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:00 INFO  LogLog4j:40 - Find element: By.id: password
+2021-04-30 11:16:00 INFO  LogLog4j:40 - By.id: password element was found!
+2021-04-30 11:16:00 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:00 INFO  LogLog4j:40 - 
+2021-04-30 11:16:00 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:00 INFO  LogLog4j:40 - Find element: By.id: password
+2021-04-30 11:16:00 INFO  LogLog4j:40 - By.id: password element was found!
+2021-04-30 11:16:00 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:00 INFO  LogLog4j:40 - 
+2021-04-30 11:16:00 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:00 INFO  LogLog4j:40 - Find element: By.id: password
+2021-04-30 11:16:00 INFO  LogLog4j:40 - By.id: password element was found!
+2021-04-30 11:16:00 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:00 INFO  LogLog4j:40 - 
+2021-04-30 11:16:00 INFO  LogLog4j:40 - ------- Password value /E1kGuG/ was entered
+2021-04-30 11:16:00 INFO  LogLog4j:40 - 
+2021-04-30 11:16:01 INFO  LogLog4j:40 - ------- Password value /E1kGuG/ was entered
+2021-04-30 11:16:01 INFO  LogLog4j:40 - [ METHOD:  'clickLoginInButtonNotAttl'  IS  STARTED ]
+2021-04-30 11:16:01 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:01 INFO  LogLog4j:40 - Find element: By.id: login
+2021-04-30 11:16:01 INFO  LogLog4j:40 - By.id: login element was found!
+2021-04-30 11:16:01 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:01 INFO  LogLog4j:40 - 
+2021-04-30 11:16:01 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:01 INFO  LogLog4j:40 - Find element: By.id: login
+2021-04-30 11:16:01 INFO  LogLog4j:40 - By.id: login element was found!
+2021-04-30 11:16:01 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:01 INFO  LogLog4j:40 - 
+2021-04-30 11:16:01 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:01 INFO  LogLog4j:40 - Find element: By.id: login
+2021-04-30 11:16:01 INFO  LogLog4j:40 - By.id: login element was found!
+2021-04-30 11:16:01 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:01 INFO  LogLog4j:40 - 
+2021-04-30 11:16:01 INFO  LogLog4j:40 - ------> Click on LOGIN button (not Attl.)
+2021-04-30 11:16:01 INFO  LogLog4j:40 - 
+2021-04-30 11:16:01 INFO  LogLog4j:40 - ------> Click on LOGIN button (not Attl.)
+2021-04-30 11:16:01 INFO  LogLog4j:40 - 
+2021-04-30 11:16:01 INFO  LogLog4j:40 - Not attl. Login: ( 0kH ) and Password: ( E1kGuG ) was entered
+2021-04-30 11:16:01 INFO  LogLog4j:40 - [ METHOD:  'clickLoginInButtonNotAttl'  IS  STARTED ]
+2021-04-30 11:16:01 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:01 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:16:01 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:16:01 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:01 INFO  LogLog4j:40 - 
+2021-04-30 11:16:01 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:01 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:16:01 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:16:01 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:01 INFO  LogLog4j:40 - 
+2021-04-30 11:16:02 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:02 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:16:02 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:16:02 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:02 INFO  LogLog4j:40 - 
+2021-04-30 11:16:02 ERROR LogLog4j:58 -  (!) Error: -!-!-!-!- Error message of the method 'getErrorNotAttlMessage' - There isn't an account for this username
+2021-04-30 11:16:02 INFO  LogLog4j:40 - 
+2021-04-30 11:16:02 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:02 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:16:02 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:16:02 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:02 INFO  LogLog4j:40 - 
+2021-04-30 11:16:02 INFO  LogLog4j:40 - [ METHOD:  'clickLoginInButtonNotAttl'  IS  STARTED ]
+2021-04-30 11:16:02 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:02 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:16:02 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:16:02 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:02 INFO  LogLog4j:40 - 
+2021-04-30 11:16:02 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:02 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:16:02 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:16:02 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:02 INFO  LogLog4j:40 - 
+2021-04-30 11:16:02 ERROR LogLog4j:58 -  (!) Error: -!-!-!-!- Error message of the method 'getErrorNotAttlMessage' - There isn't an account for this username
+2021-04-30 11:16:02 INFO  LogLog4j:40 - 
+2021-04-30 11:16:02 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:02 INFO  LogLog4j:40 - Find element: By.cssSelector: #error >.error-message
+2021-04-30 11:16:02 INFO  LogLog4j:40 - By.cssSelector: #error >.error-message element was found!
+2021-04-30 11:16:02 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:16:02 INFO  LogLog4j:40 - 
+2021-04-30 11:16:02 INFO  LogLog4j:40 - ----- Error message: There isn't an account for this username
+2021-04-30 11:16:02 INFO  LogLog4j:28 - 
+2021-04-30 11:16:02 INFO  LogLog4j:29 - *******************************************************************
+2021-04-30 11:16:02 INFO  LogLog4j:30 -          Test Case: loginNegative Was Finished
+2021-04-30 11:16:02 INFO  LogLog4j:31 - *******************************************************************
+2021-04-30 11:16:02 INFO  LogLog4j:32 - 
+2021-04-30 11:50:45 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:50:45 INFO  LogLog4j:40 - Find element: By.xpath: //a[contains(text(),'Log in')]
+2021-04-30 11:50:45 ERROR LogLog4j:58 -  (!) Error:  (!) Error: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.150)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6KPONN4H', ip: '192.168.1.31', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.150, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\danma\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57642}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4bf7b0e2139e73e8ef3d4a42760ff3cf
+*** Element info: {Using=xpath, value=//a[contains(text(),'Log in')]}
+2021-04-30 11:50:46 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:50:46 INFO  LogLog4j:40 - Find element: By.xpath: //a[contains(text(),'Log in')]
+2021-04-30 11:50:46 ERROR LogLog4j:58 -  (!) Error:  (!) Error: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.150)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6KPONN4H', ip: '192.168.1.31', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.150, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\danma\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57642}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4bf7b0e2139e73e8ef3d4a42760ff3cf
+*** Element info: {Using=xpath, value=//a[contains(text(),'Log in')]}
+2021-04-30 11:50:46 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:50:46 INFO  LogLog4j:40 - Find element: By.xpath: //a[contains(text(),'Log in')]
+2021-04-30 11:50:46 ERROR LogLog4j:58 -  (!) Error:  (!) Error: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.150)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6KPONN4H', ip: '192.168.1.31', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.150, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\danma\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57642}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4bf7b0e2139e73e8ef3d4a42760ff3cf
+*** Element info: {Using=xpath, value=//a[contains(text(),'Log in')]}
+2021-04-30 11:50:47 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:50:47 INFO  LogLog4j:40 - Find element: By.xpath: //a[contains(text(),'Log in')]
+2021-04-30 11:50:47 ERROR LogLog4j:58 -  (!) Error:  (!) Error: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.150)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6KPONN4H', ip: '192.168.1.31', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.150, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\danma\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57642}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4bf7b0e2139e73e8ef3d4a42760ff3cf
+*** Element info: {Using=xpath, value=//a[contains(text(),'Log in')]}
+2021-04-30 11:50:48 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:50:48 INFO  LogLog4j:40 - Find element: By.xpath: //a[contains(text(),'Log in')]
+2021-04-30 11:50:48 ERROR LogLog4j:58 -  (!) Error:  (!) Error: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.150)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6KPONN4H', ip: '192.168.1.31', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.150, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\danma\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57642}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4bf7b0e2139e73e8ef3d4a42760ff3cf
+*** Element info: {Using=xpath, value=//a[contains(text(),'Log in')]}
+2021-04-30 11:50:48 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:50:48 INFO  LogLog4j:40 - Find element: By.xpath: //a[contains(text(),'Log in')]
+2021-04-30 11:50:48 ERROR LogLog4j:58 -  (!) Error:  (!) Error: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.150)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6KPONN4H', ip: '192.168.1.31', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.150, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\danma\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57642}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4bf7b0e2139e73e8ef3d4a42760ff3cf
+*** Element info: {Using=xpath, value=//a[contains(text(),'Log in')]}
+2021-04-30 11:50:49 INFO  LogLog4j:40 - -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2021-04-30 11:50:49 INFO  LogLog4j:40 - Find element: By.xpath: //a[contains(text(),'Log in')]
+2021-04-30 11:50:49 ERROR LogLog4j:58 -  (!) Error:  (!) Error: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=88.0.4324.150)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LAPTOP-6KPONN4H', ip: '192.168.1.31', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 88.0.4324.150, chrome: {chromedriverVersion: 88.0.4324.96 (68dba2d8a0b14..., userDataDir: C:\Users\danma\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:57642}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 4bf7b0e2139e73e8ef3d4a42760ff3cf
+*** Element info: {Using=xpath, value=//a[contains(text(),'Log in')]}

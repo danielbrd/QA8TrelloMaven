@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Tests]">
+  <test thread-count="5" verbose="0" name="regression exclude smoke testing(failed)">
+    <groups>
+      <run>
+        <include name="regression"/>
+        <exclude name="smoke"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="org.example.tests.LoginTests">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initTestSuite"/>
+          <include name="initWebDriver"/>
+          <include name="initTests"/>
+          <include name="loginNegative" invocation-numbers="0"/>
+          <include name="finishTest"/>
+        </methods>
+      </class> <!-- org.example.tests.LoginTests -->
+    </classes>
+  </test> <!-- regression exclude smoke testing(failed) -->
+</suite> <!-- Failed suite [Tests] -->
